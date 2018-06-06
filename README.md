@@ -21,5 +21,7 @@ Command:
 - /PokemonWhite remove <command> To remove a white list command
 
 For example, your instruction is /poke add dia
+
 So you just need to add poke
+
 Example: /PokemonWhite add poke
