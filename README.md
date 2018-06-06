@@ -5,9 +5,9 @@ PokemonWhite 是我的世界宝可梦战斗输入白名单命令插件
 - /PokemonWhite add <command>  添加一个白名单命令
 - /PokemonWhite remove <command> 移除一个白名单命令
 
--例如你的指令是:
+- 例如你的指令是:
 
--/poke add dia
+- /poke add dia
 
 -那么你只需要添加poke就可以
 
